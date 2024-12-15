@@ -9,13 +9,13 @@
     <form action="changePassProcess.php" method="POST">
         <fieldset style="display: inline-block;">
             <legend><b>>CHANGE PASSWORD</b></legend>
-            <label for="current_password">Current Password:</label>
+            <label for="current_password">Current Password:</label><br>
             <input type="password" id="current_password" name="current_password"><br><br>
     
-            <label for="new_password">New Password:</label>
+            <label for="new_password">New Password:</label><br>
             <input type="password" id="new_password" name="new_password"><br><br>
     
-            <label for="confirm_password">Retype New Password:</label>
+            <label for="confirm_password">Retype New Password:</label><br>
             <input type="password" id="confirm_password" name="confirm_password"><br><br>
     
             <button type="submit">Change</button>
