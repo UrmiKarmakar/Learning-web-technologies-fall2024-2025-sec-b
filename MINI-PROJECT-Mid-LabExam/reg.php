@@ -21,7 +21,7 @@ if (isset($_SESSION['id'])) {
     <title>Registration Form</title>
 </head>
 <body>
-    <form action="RegCheck.php" method="POST">
+    <form action="regCheck.php" method="POST">
         <fieldset style="display: inline-block;">
             <legend><b>REGISTRATION</b></legend>
             <label for="id">Id</label><br>
