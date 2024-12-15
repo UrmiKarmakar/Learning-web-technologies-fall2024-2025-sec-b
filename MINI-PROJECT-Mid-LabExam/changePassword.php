@@ -19,7 +19,7 @@
             <input type="password" id="confirm_password" name="confirm_password"><br><br>
     
             <button type="submit">Change</button>
-            <a href="#">Home</a>
+            <a href="Login.php">Login</a>
         </fieldset>
     </form>
 </body>
