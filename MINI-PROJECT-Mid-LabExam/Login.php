@@ -21,7 +21,7 @@ if (isset($_SESSION['id'])) {
     <title>Login Form</title>
 </head>
 <body>
-    <form action="LoginCheck.php" method="POST">
+    <form action="loginCheck.php" method="POST">
         <fieldset style="display: inline-block;">
             <legend>LOGIN</legend>
             <label for="id">User Id</label><br>
